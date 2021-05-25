@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	}
+}
 
 a{
 	text-decoration: none;
@@ -30,7 +30,7 @@ a{
 	color: #FFF;
 }
 
-.section_first img{
+.section_first img {
 	max-width: 15rem;
 }
 
@@ -44,6 +44,28 @@ a{
 	font-size: 39px;
 }
 
-.section_second img{
+.section_second img {
 	max-width: 35rem;
+}
+
+.footer {
+	flex-direction: column;
+	background-color: #161122d9;
+	display: flex;
+	align-items: center;
+	font-size: 28px;
+	color: #180029;
+}
+
+
+.section_trird a{
+	color: #ffbbe5;
+}
+
+.footer_bottom_article_container {
+	text-align: center;
+}
+
+.footer_bottom a{
+	color: #ffbbe5;
 }
